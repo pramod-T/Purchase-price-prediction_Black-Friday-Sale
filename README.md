@@ -1,4 +1,4 @@
-# Purchase-price-prediction_Black-Friday-Sale     EDA,FE,ML
+# Purchase-price-prediction_Black-Friday-Sale     ( EDA,FE,ML )
 Model to predict the purchase amount of customers against various products which will help to 
 create a personalized offer for customers against different products.
 
